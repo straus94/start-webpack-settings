@@ -1,0 +1,12 @@
+webpack
+    babel
+    scss
+    eslint
+    2 modes
+        - dev
+            decServer, sourcemap,eslint, full css anf js
+        - prod
+            minified full code
+git
+    prod
+    dev
